@@ -22,7 +22,7 @@ If you are interested in participating in my interview, please schedule an [appo
 
 ### Informed Consent
 Participants have to be over the age of 18 to be able to provide informed consent.
-Please complete the informed consent form and return it via email to:
+Please complete the [informed consent form](https://github.com/Lisa-Hoffmann/SecuityPracticesExpertsvsNonExperts/blob/main/Consent_Sheet_Expert_Interview.pdf) and return it via email to:
 s8lihof2@stud.uni-saarland.de before the start of the interview.
 
 ### Contact
