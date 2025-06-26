@@ -13,6 +13,8 @@ Expert participants are required to have at least one year of experience working
 
 Please note that there is no compensation for participation in this interview.
 
+For more detailed information, please refer to the [informed consent form](https://github.com/Lisa-Hoffmann/SecuityPracticesExpertsvsNonExperts/blob/main/Consent_Sheet_Expert_Interview.pdf).
+
 ### Time Requirement & Appointments
 The interview is expected to last approximately 30 minutes, though the duration may vary depending on the depth of participant responses. 
 Appointments are scheduled for 60 minutes to allow for potential technical issues or extended discussion.
