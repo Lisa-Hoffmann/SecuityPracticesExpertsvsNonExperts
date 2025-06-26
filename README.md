@@ -2,7 +2,7 @@
 
 Thank you for considering participation in the expert interview for my master's thesis study.
 My name is Lisa Hoffmann, and I am currently pursuing a Master's degree in Cybersecurity at Saarland University.
-For my thesis, I aim to replicate the study “No One Can Hack My Mind: Revisiting a Study on Expert and Non-Expert Security Practices and Advice” originally conducted by [Ion et al.](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf) and replicated by [Busse et al.](https://www.usenix.org/system/files/soups2019-busse.pdf).
+For my thesis, I aim to replicate the study “No One Can Hack My Mind: Revisiting a Study on Expert and Non-Expert Security Practices and Advice” originally conducted by [Ion et al.](https://www.usenix.org/system/files/conference/soups2015/soups15-paper-ion.pdf) and replicated by [Busse et al.](https://www.usenix.org/system/files/soups2019-busse.pdf)
 
 ### Short Overview
 This study investigates differences and similarities in IT security practices between experts and non-experts, as well as how these practices are perceived by both groups.
