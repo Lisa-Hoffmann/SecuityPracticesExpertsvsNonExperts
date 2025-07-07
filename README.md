@@ -1,4 +1,4 @@
-# Master Thesis: Expert Interviews - Secuity Practices of Experts and Non-Experts
+# Master Thesis: Expert Interviews - Security Practices of Experts and Non-Experts
 
 Thank you for considering participation in the expert interview for my master's thesis study.
 My name is Lisa Hoffmann, and I am currently pursuing a Master's degree in Cybersecurity at Saarland University.
