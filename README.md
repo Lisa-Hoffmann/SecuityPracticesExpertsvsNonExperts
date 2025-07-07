@@ -21,6 +21,7 @@ Appointments are scheduled for 60 minutes to allow for potential technical issue
 Microsoft Teams will be used by default as the online meeting software, if you have any other preferences or concerns don't hesitate to contact me.
 
 If you are interested in participating in my interview, please schedule an [appointment](https://calendly.com/expert_interview/expertsvsnonexperts) or contact me directly via email.
+If you live in a time zone where the available appointment slots make participation difficult, please feel free to email me with a suggested date and time (including your time zone) that would work for you — preferably on a Wednesday, Thursday, Friday, or Saturday. I will do my best to adjust my evening or following day to accommodate a later meeting.
 
 ### Informed Consent
 Participants have to be over the age of 18 to be able to provide informed consent.
